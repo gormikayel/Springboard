@@ -17,7 +17,7 @@ Below are the topics of the mini projects in this repository : what's covered.
 
 7. [Clustering](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/clustering/Mini_Project_Clustering.ipynb):  K-means clustering and other clustering methods
 
-8. [data_wrangling_json](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/data_wrangling_json/sliderule_dsi_json_exercise(Gor)%20.ipynb) : basic data analysis on a json files
+8. [Data Wrangling](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/data_wrangling_json/sliderule_dsi_json_exercise(Gor)%20.ipynb) : basic data analysis on a json files
 
 9. [Linear Regression](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/linear_regression/Mini_Project_Linear_Regression.ipynb) : Least squares method
 
