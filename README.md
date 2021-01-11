@@ -11,7 +11,7 @@ Below are the topics of the mini projects in this repository : what's covered.
 
 4. [Inferential Statistics3.0] (https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/Inferential%20Statistics/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb) : Boostrapping
 
-5. [SQL]:(https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/SQL/sql_project.sql) :  common SQL functions in practice
+5. [SQL](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/SQL/sql_project.sql) :  common SQL functions in practice
 
 6. [Spark mini project](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/Spark%20mini%20project/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb) : Spark Dataframes and Spark SQL and binary classification using Spark ML
 
