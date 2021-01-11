@@ -9,7 +9,7 @@ Below are the topics of the mini projects in this repository : what's covered.
 
 3. [Inferential Statistics2.0](https://github.com/gormikayel/Springboard/tree/master/Mini-Projects/inferential_statistics_frequentist_mini-projects6.28.19) : Frequentist approach to inference, z/t statistics, central limit theorem, parameter estimation, confidence int.
 
-4. [Inferential Statistics3.0] (https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/Inferential%20Statistics/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb) : Boostrapping
+4. [Inferential Statistics3.0](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/Inferential%20Statistics/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb) : Boostrapping
 
 5. [SQL](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/SQL/sql_project.sql) :  common SQL functions in practice
 
