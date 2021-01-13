@@ -24,3 +24,5 @@ Below are the topics of the mini projects in this repository : what's covered.
 10. [Logistic Regression](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/logistic_regression/Mini_Project_Logistic_Regression.ipynb):   logistic regression and hypertuning
 
 11. [Naive Bayes](https://github.com/gormikayel/Springboard/blob/master/Mini-Projects/naive_bayes/Mini_Project_Naive_Bayes.ipynb): text analysis basics using rotten tomatoes data
+
+12 [Ultimate Challenge](https://github.com/gormikayel/Springboard/tree/master/ultimate_challenge) : Mini project invovling time series of logins, separate one involving classification with regards inactive vs active users
