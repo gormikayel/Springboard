@@ -1,4 +1,4 @@
-# Springboard
+# Data Science Career Track 
 Assignments/Projects
 
 Below are the topics of the mini projects in this repository : what's covered.
